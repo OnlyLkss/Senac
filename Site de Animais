@@ -1,14 +1,4 @@
-
-        p {
-            color: #666;
-        }
-
-        footer {
-            background-color: #333;
-            color: #fff;
-            text-align: center;
-            padding: 10px;
-            position: fixe<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="pt-br">
 <head>
     <meta charset="UTF-8">
@@ -41,7 +31,18 @@
 
         h2 {
             color: #333;
-        }d;
+        }
+
+        p {
+            color: #666;
+        }
+
+        footer {
+            background-color: #333;
+            color: #fff;
+            text-align: center;
+            padding: 10px;
+            position: fixed;
             bottom: 0;
             width: 100%;
         }
@@ -76,3 +77,4 @@
 
 </body>
 </html>
+
